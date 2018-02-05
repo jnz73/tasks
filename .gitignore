@@ -22,3 +22,6 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+### Deployed Angular App #
+/src/main/resources/static/**
